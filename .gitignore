@@ -70,7 +70,7 @@ agenthub/agents/youtube/db
 **/*.tar
 **/*.tgz
 *.pack
-*.deb
+*.deb   
 *.dylib
 
 # Build caches
@@ -78,3 +78,14 @@ agenthub/agents/youtube/db
 
 # Mobile development
 android-sdk/ 
+
+# Metro / React Native cache
+frontend/.metro-cache/
+.metro-cache/
+frontend/android/
+android/
+
+# Python virtual environment
+backend/majorapp311/
+venv/
+.venv/

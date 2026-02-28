@@ -26,8 +26,13 @@
         "CAMERA",
         "ACCESS_FINE_LOCATION",
         "ACCESS_COARSE_LOCATION",
+        "READ_MEDIA_IMAGES",
+        "CAMERA",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
         "READ_MEDIA_IMAGES"
-      ]
+      ],
+      "package": "com.anonymous.frontend"
     },
     "web": {
       "bundler": "metro",
